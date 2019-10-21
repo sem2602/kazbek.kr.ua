@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://kazbek.kr.ua/</loc>
+  <lastmod>2018-02-06T06:09:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://kazbek.kr.ua/menu.html</loc>
+  <lastmod>2018-02-06T06:03:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kazbek.kr.ua/wine.html</loc>
+  <lastmod>2018-02-06T06:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kazbek.kr.ua/gallery.html</loc>
+  <lastmod>2018-02-06T06:04:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kazbek.kr.ua/contacts.html</loc>
+  <lastmod>2018-02-06T06:04:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kazbek.kr.ua/data/images/menu.pdf</loc>
+  <lastmod>2018-02-01T19:11:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
